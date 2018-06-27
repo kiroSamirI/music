@@ -1,0 +1,135 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+.parent
+{
+	width:auto;
+	height:100px;
+	margin-left:90px;
+}
+.project
+{
+	width:210px;
+	height:50px;
+	text-align:center;
+	vertical-align:middle;
+	color:rgb(194,194,194);
+	background:black;
+	float:left;
+	border-right:1px solid rgb(194,194,194);
+	padding:10px;
+	text-transform:uppercase;
+}
+.project:hover
+{
+	background:rgba(0,0,0,0.5);
+	color:#ff5a00;
+	transition-duration:0.4s;
+}
+h4
+{
+	text-align:center;
+	vertical-align:middle;
+	margin-top:15px;
+}
+a
+{
+	color:gray;
+	font-family:cooper;
+	font-size:16px;
+	display:block;
+	text-decoration:none;
+	
+}
+.parent2
+{
+	width:1155px;
+	height:400px;
+	margin-left:90px;
+	margin-top:40px;
+}
+.productions
+{
+	text-align:center;
+	vertical-align:middle;
+	font-family:normal;
+	font-size:50px;
+	position:relative;
+	width:1155px;
+	height:400px;
+	text-transform:uppercase;
+}
+.production
+{
+	text-align:center;
+	color:white;
+	font-family:arial;
+	text-transform:uppercase;
+	padding-top:180px;
+	vertical-align:middle;
+}
+.productions:hover
+{
+	background:rgba(255,90,0,0.85);
+	color:red;
+	transition-duration:0.5s;
+}
+.a
+{
+	background-image:url('project/piano3.jpg');
+}
+.b
+{
+	background-image:url('project/organ3.jpg');
+}
+.c
+{
+	background-image:url('project/synthesizer2.jpg');
+}
+.d
+{
+	background-image:url('project/piano.jpg');
+}
+.e
+{
+	background-image:url('project/3841.jpg');
+}
+.f
+{
+	background-image:url('project/drums2.jpg');
+}
+.g
+{
+	background-image:url('project/production4.jpg');
+}
+.h
+{
+	background-image:url('project/amplifier.jpg');
+}
+.i
+{
+	background-image:url('project/aira2.jpg');
+}
+.j
+{
+	background-image:url('project/pro audio&vedio.jpg');
+}
+.k
+{
+	background-image:url('project/pro audio&vedio2.jpg');
+}
+.l
+{
+	background-image:url('project/accessories.jpg');
+}
+li
+{
+	display:list-item;
+}
+ul
+{
+	list-style-type:none;
+	border:1px;
+}
